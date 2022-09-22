@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3989b98c\",\"path\":\"/%E8%AE%BE%E8%AE%A1/%E5%A4%9A%E7%BB%B4%E5%88%86%E6%9E%90%E6%A8%A1%E6%9D%BF%E8%AE%BE%E8%AE%A1/\",\"title\":\"多维分析模板设计\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"设计/多维分析模板设计/README.md\"}")

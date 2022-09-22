@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-53439a4d\",\"path\":\"/%E5%8A%9F%E8%83%BD/%E5%8F%98%E9%87%8F%E5%87%BD%E6%95%B0/\",\"title\":\"变量函数\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"功能/变量函数/README.md\"}")

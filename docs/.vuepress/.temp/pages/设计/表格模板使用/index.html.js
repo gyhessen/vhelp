@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-0bec7440\",\"path\":\"/%E8%AE%BE%E8%AE%A1/%E8%A1%A8%E6%A0%BC%E6%A8%A1%E6%9D%BF%E4%BD%BF%E7%94%A8/\",\"title\":\"表格模板使用\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"设计/表格模板使用/README.md\"}")
